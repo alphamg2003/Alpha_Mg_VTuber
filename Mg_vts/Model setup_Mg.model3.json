@@ -1,0 +1,23 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Model setup_Mg.moc3",
+		"Textures": [
+			"Model setup_Mg.1024/texture_00.png"
+		],
+		"Physics": "Model setup_Mg.physics3.json",
+		"DisplayInfo": "Model setup_Mg.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}
